@@ -6,7 +6,7 @@
 
 ### 已发布作品
 1. https://ytlx.github.io/Hexagonal-TiledMap/   
-  即将发布到 Unity Asset Store
+  已发布到 Unity Asset Store, 等待审核。
 
 
 ## 联系方式
